@@ -1,4 +1,22 @@
-## Hi there 👋
+### Olá, eu sou o Isaías Abreu 👋
+> Meu perfil pessoal - Isaías Abreu
+
+Profissional da área de **Segurança** em transição para **Tecnologia**.
+
+---
+
+🚀 **Sobre mim**
+Experiência em segurança operacional, agora aplicando lógica, organização e análise de dados no mundo da programação.
+
+Estou construindo minha base em tecnologia com foco em automação e inteligência artificial.
+
+🛠️ **Tecnologias em aprendizado:**
+`JavaScript` `Python` `Git` `GitHub`
+
+🎯 **Objetivo:**
+Desenvolver soluções práticas que unam segurança e tecnologia.
+
+📍 São Bernardo do Campo - SP
 
 <!--
 **isaias-abreu-ai/isaias-abreu-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
